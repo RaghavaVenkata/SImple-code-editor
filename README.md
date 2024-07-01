@@ -4,7 +4,25 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+## Step 1: Set Up Your Project
+
+Install Node.js and npm:
+
+If you haven't already, install Node.js and npm from the official Node.js website.
+
+## Create a new React project:
+
+Use Create React App to set up a new React project with TypeScript. Open your terminal and run:
+
+npx create-react-app simple-code-editor --template typescript
+
+## Navigate to the project directory:
+
+cd simple-code-editor
+
+## Install required dependencies:
+
+npm install prismjs prism-react-renderer
 
 ### `npm start`
 
